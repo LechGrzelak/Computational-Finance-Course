@@ -14,7 +14,6 @@ https://QuantFinanceBook.com
 Content of the course:
 
 Lecture 1- Introduction and Overview of Asset Classes
-
 Lecture 2- Stock, Options and Stochastics
 
 Lecture 3- Option Pricing and Simulation in Python
