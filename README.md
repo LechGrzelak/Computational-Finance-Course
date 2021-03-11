@@ -2,7 +2,7 @@
 Here you will find materials for the course of Computational Finance
 
 YouTube lectures you can find at:
-https://www.youtube.com/user/judym82/videos
+https://www.youtube.com/ComputationsInFinance
 
 The course is based on the book: 
 "Mathematical Modeling and Computation in Finance: With Exercises and Python and MATLAB Computer Codes", 
