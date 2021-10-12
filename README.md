@@ -9,7 +9,7 @@ The course is based on the book:
 by C.W. Oosterlee and L.A. Grzelak, World Scientific Publishing, 2019.
 
 The website of the book is:
-https://QuantFinanceBook.com
+https://LechGrzelak.com
 
 Content of the course:
 
